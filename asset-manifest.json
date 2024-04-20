@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kiso5-ssr/static/css/main.52ae68e1.css",
+    "main.js": "/kiso5-ssr/static/js/main.df2bd709.js",
+    "static/js/453.342ef369.chunk.js": "/kiso5-ssr/static/js/453.342ef369.chunk.js",
+    "static/media/running.jpg": "/kiso5-ssr/static/media/running.d2b027d0c3f46685db2b.jpg",
+    "static/media/myface.jpg": "/kiso5-ssr/static/media/myface.a474e3ec6f865694724b.jpg",
+    "static/media/anime.jpg": "/kiso5-ssr/static/media/anime.fd435f8b97a99da64537.jpg",
+    "static/media/react.jpg": "/kiso5-ssr/static/media/react.010cd9388cb7c50208f1.jpg",
+    "index.html": "/kiso5-ssr/index.html",
+    "main.52ae68e1.css.map": "/kiso5-ssr/static/css/main.52ae68e1.css.map",
+    "main.df2bd709.js.map": "/kiso5-ssr/static/js/main.df2bd709.js.map",
+    "453.342ef369.chunk.js.map": "/kiso5-ssr/static/js/453.342ef369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ae68e1.css",
+    "static/js/main.df2bd709.js"
+  ]
+}
